@@ -37,6 +37,7 @@ googleAnalytics = ""
 		headline    = "Family Photographer"
 		description = "Wife and mother of two wonderful and energetic boys. I am passionate about capturing those perfect moments of your family."
 		buttonText  = "Book now!"
+    img = "taeko.jpg"
 
 
 	# Service section

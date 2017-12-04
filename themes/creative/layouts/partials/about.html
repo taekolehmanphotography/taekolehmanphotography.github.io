@@ -6,6 +6,7 @@
                 {{ with .Site.Params.about.headline }}
                     <h2 class="section-heading">{{ . }}</h2>
                 {{ end }}
+                    <img src="img/{{ .Site.Params.about.img }}" class="img-centered img-shadow" alt="">
                 {{ if and .Site.Params.about.headline .Site.Params.about.description }}
                     <hr class="light">
                 {{ end }}
