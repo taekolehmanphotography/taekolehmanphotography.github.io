@@ -1,7 +1,7 @@
 baseurl = "https://taekolehmanphotography.com/"
 languageCode = "en-us"
 title = "Taeko Lehman Photography"
-theme = "hugo-creative-theme"
+theme = "creative"
 googleAnalytics = ""
 
 [params]
