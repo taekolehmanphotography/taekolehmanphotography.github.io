@@ -1,1 +1,0 @@
-# taekolehmanphotography.github.io
