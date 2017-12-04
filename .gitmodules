@@ -1,0 +1,24 @@
+[submodule "themes/grid-side"]
+	path = themes/grid-side
+	url = https://github.com/chipsenkbeil/grid-side.git
+[submodule "themes/intro"]
+	path = themes/intro
+	url = https://github.com/vickylaixy/hugo-theme-introduction.git
+[submodule "themes/agency"]
+	path = themes/agency
+	url = https://github.com/digitalcraftsman/hugo-agency-theme.git
+[submodule "themes/phugo"]
+	path = themes/phugo
+	url = https://github.com/aerohub/phugo.git
+[submodule "themes/hugo-creative-portfolio-theme"]
+	path = themes/hugo-creative-portfolio-theme
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
+[submodule "themes/hugo-elate-theme"]
+	path = themes/hugo-elate-theme
+	url = https://github.com/saey55/hugo-elate-theme.git
+[submodule "themes/hugo-strata-theme"]
+	path = themes/hugo-strata-theme
+	url = https://github.com/digitalcraftsman/hugo-strata-theme.git
+[submodule "themes/hugo-creative-theme"]
+	path = themes/hugo-creative-theme
+	url = https://github.com/digitalcraftsman/hugo-creative-theme.git
